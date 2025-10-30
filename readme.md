@@ -1,0 +1,1 @@
+# 서울과학기술대학교 AI COSS X A.ing X Lailac Hackathon
