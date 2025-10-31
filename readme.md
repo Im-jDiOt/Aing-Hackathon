@@ -1,8 +1,6 @@
 # 서울과학기술대학교 AI COSS X A.ing X Lailac Hackathon
 
-# README.md
-
-# Kumar 2-Layer CNN (전처리 포함)
+Kumar 2-Layer CNN (전처리 포함)
 
 ## 1. 개요
 
